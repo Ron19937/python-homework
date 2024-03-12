@@ -3,4 +3,3 @@ total_sum = sum(lst)
 
 print(total_sum)
 
-

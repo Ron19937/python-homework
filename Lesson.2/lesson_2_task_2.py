@@ -12,4 +12,3 @@ else:
 is_year_leap(2004)
 
 is_year_leap(2021)
-             

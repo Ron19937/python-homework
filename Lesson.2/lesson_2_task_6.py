@@ -5,5 +5,3 @@ for l in lst:
     else:
         if(l % 3 == 0):
             print(l)
-
-

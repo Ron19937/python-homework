@@ -6,4 +6,3 @@ def square(s):
 	return p
 	
 print(square(4))
-
